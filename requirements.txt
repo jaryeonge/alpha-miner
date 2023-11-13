@@ -1,4 +1,7 @@
 fastapi
+pydantic
 uvicorn[standard]
 pymysql
 sqlalchemy
+plotly
+pandas
